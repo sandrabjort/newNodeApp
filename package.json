@@ -1,0 +1,27 @@
+{
+  "name": "restful-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "start": "node app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gudbjorglilja/RESTful-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gudbjorglilja/RESTful-Backend/issues"
+  },
+  "homepage": "https://github.com/gudbjorglilja/RESTful-Backend#readme",
+  "description": ""
+}
